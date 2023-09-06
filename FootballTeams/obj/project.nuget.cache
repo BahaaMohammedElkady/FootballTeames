@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "scV90f6Hgo5i19vhXhUQtDhbnJCubiFF/2yOOCHwrwM8cVuVB3NUa4RoJEjR6rq5S8SJGEamvQm29eOP91szWw==",
+  "success": true,
+  "projectFilePath": "D:\\Original\\Pharmacy_Projects\\Visual_Studio_Projects\\Samples\\FootballTeams\\FootballTeams\\FootballTeams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pharm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pharm\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pharm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pharm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

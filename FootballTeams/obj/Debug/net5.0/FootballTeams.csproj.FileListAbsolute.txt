@@ -1,0 +1,32 @@
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.exe
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.deps.json
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.runtimeconfig.json
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.runtimeconfig.dev.json
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.dll
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\ref\FootballTeams.dll
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.pdb
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.csprojAssemblyReference.cache
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.GeneratedMSBuildEditorConfig.editorconfig
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.AssemblyInfoInputs.cache
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.AssemblyInfo.cs
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.csproj.CoreCompileInputs.cache
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.dll
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\ref\FootballTeams.dll
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.pdb
+E:\Current Courses\C#\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.genruntimeconfig.cache
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.exe
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.deps.json
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.runtimeconfig.json
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.runtimeconfig.dev.json
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.dll
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\bin\Debug\net5.0\FootballTeams.pdb
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.csproj.AssemblyReference.cache
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.AssemblyInfoInputs.cache
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.AssemblyInfo.cs
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.csproj.CoreCompileInputs.cache
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.dll
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\refint\FootballTeams.dll
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.pdb
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\FootballTeams.genruntimeconfig.cache
+D:\Original\Pharmacy_Projects\Visual_Studio_Projects\Samples\FootballTeams\FootballTeams\obj\Debug\net5.0\ref\FootballTeams.dll
